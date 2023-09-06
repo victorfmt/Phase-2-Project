@@ -1,3 +1,17 @@
+# Oracle
+
+## About
+
+Oracle is a barebones React-based app that allows you to simulate a simple divination system.
+
+## starting from local server
+
+npm install
+
+npm start
+
+npm run server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
